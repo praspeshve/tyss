@@ -1,0 +1,2 @@
+set classpath=E:\Scenarios\tyss\soft*;E:\Scenarios\tyss\target\test-classes
+java org.testng.TestNG testng.xml
